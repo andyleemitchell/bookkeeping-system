@@ -17,5 +17,6 @@ extended outside of the module. The code is still a work in progress.
 - automatic completion of book metadata from their titles
 	- possibly some python webscraping integration?
 
+ <<testing>> I messed up my github email - test to see if it is fixed
 
 <!--- Add in compilations/installation options here when makefile is done --->
